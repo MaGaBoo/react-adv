@@ -17,7 +17,7 @@ code {
 
 .main-layout {
   display: flex;
-  flex-direction: row;
+  flex-direction: row
 }
 
 nav {
